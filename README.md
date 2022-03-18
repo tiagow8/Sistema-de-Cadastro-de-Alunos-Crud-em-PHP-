@@ -1,5 +1,5 @@
 # Sistema-de-Cadastro-de-Alunos-Crud-em-PHP-
-Projeto back-end onde eu desenvolvi um sistema de cadstro de alunos com PHP onde interligava e rodava diretamente ao Banco de Dados MYSQL, Crud, manipulação ao mysql.
+Projeto back-end onde eu desenvolvi um sistema de cadastro de alunos com PHP onde interligava e rodava diretamente ao Banco de Dados MYSQL, Crud, manipulação ao mysql.
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target_blank">
